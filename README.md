@@ -8,6 +8,7 @@
   which provides the ability to adapt to new projects 
   and facilitates the learning of new technologies.
 </p>
+
 ## Stack
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">

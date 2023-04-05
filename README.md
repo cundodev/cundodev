@@ -2,7 +2,7 @@
 
 ## About Me
 
-Frontend developer with +2 years programming in javaScript and React.
+Frontend developer with +2 years programming in individual projects where I have used libraries such as React, which provides the ability to adapt to new projects and facilitates the learning of new technologies.
 
 ## Stack
 <p align="left">

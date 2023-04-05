@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name's Facundo and I am a frontend developer from Argentina.
+Frontend developer with +2 years programming in javaScript and React.
 
 ## Stack
 <p align="left">

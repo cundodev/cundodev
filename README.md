@@ -2,11 +2,12 @@
 
 ## About Me
 
-Frontend developer with +2 years programming in individual projects
-where I have used libraries such as React, 
-which provides the ability to adapt to new projects 
-and facilitates the learning of new technologies.
-
+<p style={{width:75ch}}>
+  Frontend developer with +2 years programming in individual projects
+  where I have used libraries such as React, 
+  which provides the ability to adapt to new projects 
+  and facilitates the learning of new technologies.
+</p>
 ## Stack
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">

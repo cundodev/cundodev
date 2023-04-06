@@ -1,13 +1,12 @@
 ### 👋 Hello there!
 
 ## About Me
-
-<p style={{width:75ch}}>
-  Frontend developer with +2 years programming in individual projects
+<p>
+  Frontend developer with +2 years programming in individual projects 
   where I have used libraries such as React, 
-  which provides the ability to adapt to new projects 
-  and facilitates the learning of new technologies.
+  which provides the ability to adapt to new projects and facilitates the learning of new technologies.
 </p>
+
 
 ## Stack
 <p align="left">

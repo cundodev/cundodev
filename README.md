@@ -32,4 +32,4 @@
  
  ## 💻 Working on
  
- - [Dictionary](https://github.com/facindito/dictionary)
+ - [Trivia Game](https://github.com/facindito/trivia)

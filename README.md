@@ -32,4 +32,4 @@
  
  ## 💻 Working on
  
- - [Gifs App]([https://github.com/cundodev/some-gifs])
+ - [Gifs App](https://github.com/cundodev/some-gifs)
